@@ -46,8 +46,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavindu-98&theme=radical" alt="GitHub Streak" height="180px"/>
+  <img src="https://streak-stats.demolab.com?user=kavindu-98&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180px"/>
 </p>
+
 
 ---
 
