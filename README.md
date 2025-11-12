@@ -14,8 +14,8 @@
 - 🌱 I’m learning **Next.js, TypeScript, and Cloud Deployment (AWS, Vercel)**  
 - 💬 Ask me about **React, Node.js, Express, MongoDB, REST APIs, and UI/UX**  
 - ⚙️ Tech Passion: **Building scalable apps & crafting smooth user experiences**  
-- 📫 Reach me at **kavinduabeykoon98@gmail.com**  
-- 🌐 Visit my **[Portfolio Website](#)** (coming soon!)  
+- 📫 Reach me at **kavinduumayanga058@gmail.com**  
+- 🌐 Visit my **https://kavindu-98.github.io/myportfolio/**   
 
 ---
 
