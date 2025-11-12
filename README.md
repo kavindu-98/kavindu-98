@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Kavindu Abeykoon</h1>
 <h3 align="center">🚀 Software Engineer | MERN Stack Developer | Tech Explorer from Sri Lanka 🇱🇰</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif" />
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1MO2A9yyv10-4vBE6EoWwNyG2HhvRrQiG/view?usp=sharing" />
 
 ---
 
